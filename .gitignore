@@ -1,0 +1,7 @@
+# Ignore virtual environment
+myenv/
+
+# Other patterns to ignore
+*.pyc
+__pycache__/
+.env
